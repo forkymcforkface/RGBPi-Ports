@@ -1,6 +1,6 @@
-- put this file in your /roms/ports folder
+- put the start server.sh file in your /roms/ports folder
 - scan for games
-- run it
+- run start server.sh
 - on your computer browser go to the pi ip address xxx.xxx.xxx.xxx:8000
 - pw is the same as the os4 pw
 
