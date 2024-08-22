@@ -593,4 +593,4 @@ fi
 
 # Start the Flask server
 echo "Starting the server..."
-python3 server.py
+python3 server.py &
