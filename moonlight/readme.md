@@ -2,12 +2,12 @@ Source of installer: https://github.com/moonlight-stream/moonlight-qt
 
 
 Pre reqs:
-1. READ ALL OF THIS
-2. Your pi must be connected to the internet to install
-3 .Out of the box Moonlight requires a nvidia video card on your source PC
-4. AMD Cards use https://github.com/LizardByte/Sunshine
-5. Hardwire network your pi if possible
-6. If you have any issues with moonlight like latency etc. Go to the moonlight subreddit.
+- 1. READ ALL OF THIS
+- 2. Your pi must be connected to the internet to install
+- 3 .Out of the box Moonlight requires a nvidia video card on your source PC
+- 4. AMD Cards use https://github.com/LizardByte/Sunshine
+- 5. Hardwire network your pi if possible
+- 6. If you have any issues with moonlight like latency etc. Go to the moonlight subreddit.
 
 
 Install Directions:
